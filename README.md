@@ -1,70 +1,59 @@
-# Getting Started with Create React App
+# Landing Page de Apresentação - Maria de Fátima Nunes Alves
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é uma landing page desenvolvida como parte do desafio técnico para a vaga de estágio em Desenvolvimento Frontend na Desenvolve-AL. A landing page foi criada para apresentar informações sobre mim, destacando minha experiência, projetos e como entrar em contato comigo.
 
-## Available Scripts
+## Tecnologias Utilizadas
 
-In the project directory, you can run:
+- **React**: Utilizado como o framework principal para a criação da aplicação frontend.
+- **Tailwind CSS**: Framework CSS utilizado para estilização, permitindo uma abordagem de design responsivo e altamente customizável.
+- **Node.js**: Utilizado para gerenciar as dependências e realizar o build do projeto.
 
-### `npm start`
+## Tópicos da Landing Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Home
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+A seção inicial da landing page apresenta uma breve introdução sobre mim, destacando minhas experiências, assim como meus interesses e habilidades técnicas.
 
-### `npm test`
+### Projetos
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Nesta seção, são listados alguns dos projetos significativos nos quais participei ou desenvolvi.
 
-### `npm run build`
+### Experiências
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Aqui são detalhadas minhas experiências profissionais relevantes, incluindo cargos anteriores, responsabilidades e tecnologias utilizadas. Cada experiência é acompanhada de uma breve descrição do papel desempenhado.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Contato
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A seção de contato fornece informações para me encontrar online, como links para perfis de redes sociais (GitHub, LinkedIn, Instagram, WhatsApp) e outras formas de contato direto.
 
-### `npm run eject`
+## Como Executar o Projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Para executar este projeto localmente, siga estas instruções:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone este repositório para o seu ambiente local.
+2. Certifique-se de ter o Node.js instalado em seu sistema.
+3. No terminal, navegue até o diretório do projeto e execute o seguinte comando para instalar as dependências:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm install
+   ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+4. Após a instalação das dependências, inicie o servidor de desenvolvimento com o comando:
 
-## Learn More
+   ```bash
+   npm start
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. Abra o seu navegador e acesse `http://localhost:3000` para visualizar a landing page.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Contribuição
 
-### Code Splitting
+Este projeto foi desenvolvido como parte de um desafio técnico para a vaga de estágio em desenvolvimento frontend. Qualquer feedback ou sugestão de melhoria é bem-vindo! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Autor
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Maria de Fátima Nunes Alves
+- LinkedIn: [linkedin.com/in/maria-de-fatima-nunes-alves](https://linkedin.com/in/maria-de-fatima-nunes-alves)
+- GitHub: [github.com/alvesmariadefatima](https://github.com/alvesmariadefatima)
+---
+<p align="center">2024 - Maria de Fátima Nunes Alves</p>
